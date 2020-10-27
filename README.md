@@ -1,5 +1,8 @@
 # Ghost Town
 
+## Demo - https://youtu.be/wwLpRhv3v84
+[![Ghost Town Demo](https://i.imgur.com/iIchQvw.png)](https://youtu.be/wwLpRhv3v84)
+
 ## Build
 `mvn clean install`
 
